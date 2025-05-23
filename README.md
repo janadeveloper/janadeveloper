@@ -6,8 +6,8 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Janaine Santos!
  👩🏻‍💻 Sou uma desenvolvedora, criativa e apaixonada por tecnologia, matemática e educação (STEM).<br>
- ⚡ Formada em Matemática Licenciatura na UFAL e Técnica em Informática no IFAL<br>
  👩‍🎓 Mestranda em ciências da computação no PPGI/IC-UFAL<br>
+ ⚡ Formada em Matemática Licenciatura na UFAL e Técnica em Informática no IFAL<br>
  👩‍🎓Graduanda ciências da computação na Estácio<br>
 </div>
 
